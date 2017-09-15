@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jalomo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalomo/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jalomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalomo/node/issues"
+  },
+  "homepage": "https://github.com/jalomo/node#readme"
+}
